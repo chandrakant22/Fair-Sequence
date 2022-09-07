@@ -16,8 +16,8 @@ Your friend also kept a timer of 15 min. If you solve it in time, you will win. 
 Example - 1:
 
 Input:
-5  -- N (Number of elements in an array) 
-21 12 13 -21 -2   -- Array A consists of N elements 161 232
+5   // N (Number of elements in an array) 
+21 12 13 -21 -2   // Array A consists of N elements
 
 Output:
 0
